@@ -1,0 +1,67 @@
+<h1>H1</h1>
+<h2>H2</h2>
+<h3>H3</h3>
+<h4>H4</h4>
+<h5>H5</h5>
+<h6>H6</h6>
+
+<h1>Alt-H1</h1>
+<h2>Alt-H2</h2>
+
+<p>Emphasis, aka italics, with <em>asterisks</em> or <em>underscores</em>.</p>
+
+<p>Strong emphasis, aka bold, with <strong>asterisks</strong> or <strong>underscores</strong>.</p>
+
+<p>Combined emphasis with <strong>asterisks and <em>underscores</em></strong>.</p>
+
+<p>Strikethrough uses two tildes. <s>Scratch this.</s></p>
+
+<ol>
+  <li>First ordered list item</li>
+  <li>Another item
+    <ul>
+      <li>Unordered sub-list.</li>
+      <li>Actual numbers don't matter, just that it's a number
+        <ol>
+          <li>Ordered sub-list</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>And another item.
+    <p>You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).</p>
+    <p>To have a line break without a paragraph, you will need to use two trailing spaces.  
+    Note that this line is separate, but within the same paragraph.  
+    (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)</p>
+  </li>
+</ol>
+
+<ul>
+  <li>Unordered list can use asterisks</li>
+  <li>Or minuses</li>
+  <li>Or pluses</li>
+</ul>
+
+<p><a href="https://www.google.com">I'm an inline-style link</a></p>
+
+<p><a href="https://www.google.com" title="Google's Homepage">I'm an inline-style link with title</a></p>
+
+<p><a href="https://www.mozilla.org">I'm a reference-style link</a></p>
+
+<p><a href="../blob/master/LICENSE">I'm a relative reference to a repository file</a></p>
+
+<p><a href="http://slashdot.org">You can use numbers for reference-style link definitions</a></p>
+
+<p><a href="http://www.reddit.com">Or leave it empty and use the link text itself</a>.</p>
+
+<p>URLs and URLs in angle brackets will automatically get turned into links. 
+<a href="http://www.example.com">http://www.example.com</a> or <a href="http://www.example.com">http://www.example.com</a> and sometimes 
+example.com (but not on Github, for example).</p>
+
+<p>Some text to show that the reference links can follow later.</p>
+
+<p><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 1" /></p>
+
+<p><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 2" /></p>
+
+<p>Inline <code>code</code> has <code>back-ticks around</code> it.</p>
